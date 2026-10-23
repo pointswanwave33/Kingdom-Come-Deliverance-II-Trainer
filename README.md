@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Kingdom-Come-Deliverance-II-Trainer` · Updated: 2026-10-07
+`Kingdom-Come-Deliverance-II-Trainer` · Updated: 2026-10-24
 
 **Tags:** `kingdom-come-deliverance-2` `trainer` `rpg` `medieval` `windows`
